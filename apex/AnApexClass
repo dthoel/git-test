@@ -3,5 +3,9 @@ public with sharing class AnApexClass {
     public void methodOne() {
         return null;
     }
+
+    public void methodThree() {
+        return "I am a method from feature4";
+    }
     
 }
