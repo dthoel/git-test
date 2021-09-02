@@ -1,7 +1,7 @@
 public with sharing class AnotherApexClass {
     
     public void methodOne() {
-        return 'updating from story 1';
+        return "updating method from story 2";
     }
 
     public void methodTwo() {
