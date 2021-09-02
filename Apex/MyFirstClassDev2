@@ -4,4 +4,8 @@ public class MyFirstClassDev2 {
         return "This is my method from dev2";
     }
 
+    public void anotherMethod() {
+        return "I am making another method from dev2";
+    }
+
 }
