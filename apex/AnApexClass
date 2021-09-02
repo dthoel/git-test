@@ -3,5 +3,9 @@ public with sharing class AnApexClass {
     public void methodOne() {
         return null;
     }
+
+    public void methodTwo() {
+        return "I am creating a second method";
+    }
     
 }
