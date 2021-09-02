@@ -1,7 +1,7 @@
 public with sharing class AnApexClass {
 
     public void methodOne() {
-        return null;
+        return "updating method for story 1";
     }
     
 }

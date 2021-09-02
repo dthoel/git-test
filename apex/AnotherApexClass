@@ -4,4 +4,8 @@ public with sharing class AnotherApexClass {
         return null;
     }
 
+    public void methodTwo() {
+        return null;
+    }
+
 }
