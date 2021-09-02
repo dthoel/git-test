@@ -1,0 +1,7 @@
+public class MyFirstClassDev2 {
+
+    public void method1 () {
+        return "This is my method from dev2";
+    }
+
+}
